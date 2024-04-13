@@ -10,7 +10,7 @@ https://www.ime.co.ir/ (Historical Imami Gold Coin Options Data)
 
 Furthermore, I have created a notebook named "ML and Statistical Models for Persian Option Trading". There, I used Machine Learning, Deep Learning, and Statistical Models for forecasting the price in the future (from the current time to the option's expiration date). After backtesting all of them, I selected the best model and, based on its forecasting, traded options to calculate the performance of this approach.
 
-Future Work:
+Future Works:
 
 1. I will use the above methods to estimate the parameters in stochastic calculus models, such as volatility. By replacing them with those models, I will attempt to price options and finally backtest to measure the performance of this method.
 2.  I will attempt to use informative features of options to apply learning and statistical models directly to the options data and investigate their performance.
