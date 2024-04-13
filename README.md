@@ -12,6 +12,6 @@ Furthermore, I have created a notebook named "ML and Statistical Models for Pers
 
 Future Work:
 
-I will use the above methods to estimate the parameters in stochastic calculus models, such as volatility. By replacing them with those models, I will attempt to price options and finally backtest to measure the performance of this method.
-I will attempt to use informative features of options to apply learning and statistical models directly to the options data and investigate their performance.
-I plan to combine all of the above approaches to find a robust and high-performance solution for pricing and trading Persian Financial Options.
+1. I will use the above methods to estimate the parameters in stochastic calculus models, such as volatility. By replacing them with those models, I will attempt to price options and finally backtest to measure the performance of this method.
+2.  I will attempt to use informative features of options to apply learning and statistical models directly to the options data and investigate their performance.
+3.  plan to combine all of the above approaches to find a robust and high-performance solution for pricing and trading Persian Financial Options.
