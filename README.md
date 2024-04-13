@@ -5,7 +5,9 @@ There is a rich array of computational and theoretical methods and approaches fo
 I have created a Python file containing the most common stochastic calculus models for pricing options. Additionally, I have crawled the following websites to gather data:
 
 https://www.tgju.org/ (Historical Imami Gold Coin Price)
+
 https://www.ime.co.ir/ (Historical Imami Gold Coin Options Data)
+
 Furthermore, I have created a notebook named "ML and Statistical Models for Persian Option Trading". There, I used Machine Learning, Deep Learning, and Statistical Models for forecasting the price in the future (from the current time to the option's expiration date). After backtesting all of them, I selected the best model and, based on its forecasting, traded options to calculate the performance of this approach.
 
 Future Work:
